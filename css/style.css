@@ -431,7 +431,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 	text-decoration: none;
 }
 /*** THE END FOOTER LINKS ***/
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
 /*** BLOG2 ***/
 .lg-col-bg2 {
 	background: transparent;
